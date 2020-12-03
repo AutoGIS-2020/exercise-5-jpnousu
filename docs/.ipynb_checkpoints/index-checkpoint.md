@@ -8,4 +8,4 @@ Interactive map illustrates travel times in Helsinki as a ratio between travel t
 ## My maps
 
  - [My static map](https://autogis-2020.github.io/exercise-5-jpnousu/Median_Ages.png)
- - [My interactive map](https://autogis-2020.github.io/exercise-5-jpnousu/Traveltimeratios_Helsinki_Railwaystation.html)
+ - [My interactive map](https://autogis-2020.github.io/exercise-5-jpnousu/Traveltime_Ratios_Helsinki_Railwaystation.html)
