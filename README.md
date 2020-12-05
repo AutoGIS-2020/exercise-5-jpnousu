@@ -71,7 +71,16 @@ For both maps, think a bit about the audience of the map, and pay attention to y
   
   
   
-  
+    
+## Exercise 5 grade and feedback: 20.0 / 20.0 points
+### Grader
+- sonjakoivisto
+### Problem scores
+- Problem 1: 10.0 / 10.0 
+- Problem 2: 10.0 / 10.0 
+- Problem 3: :sunny: / 0.0
+### Comments
+Good map concepts and well executed ideas. In the static map, the legend was stylish and well located and nice that you added the credits. The basemap could be more restrained (eg grayscale) to highlight the theme of the map. The colors for the roads and metroline were untraditional :slightly_smiling_face: The idea of comparing travel times of pt and car was really interesting. You could still highlight the differences (areas were pt is faster vs car) by calculating pt - car and choosing a color scale that has different colors for positive and negative values.
   
   
   
